@@ -1,4 +1,4 @@
-# Project Title
+# Razmazio - JAVA Side Scroller Game
 
 Yay! it's finally summer and Razmazio was waiting for it for so long. He’s so fed up with his boring routine at his university, that he just want get out of it as soon as possible and enjoy summer in the comfort of his home. There are two problems 
 
